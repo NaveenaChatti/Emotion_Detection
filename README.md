@@ -21,6 +21,8 @@ For the model building and evaluation, I have followed the steps below to toward
 ## Data Sources
 
 - **Book1.csv**: This dataset contains text samples with corresponding emotion labels. This dataset is used for exploratory data analysis (EDA) and initial model training.
+- **Book2.csv**:  This dataset is used for testing model.
+
 - **Airline_review.csv**: This dataset contains reviews from passengers, and is used for emotion prediction after training the model.
 
 ## Steps Followed

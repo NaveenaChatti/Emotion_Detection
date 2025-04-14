@@ -72,8 +72,8 @@ This project demonstrates the application of deep learning (LSTM) for emotion de
 
 ## Requirements
 
-- Python 3.x
-- TensorFlow 2.x
+- Python 
+- TensorFlow 
 - Keras
 - Pandas
 - NumPy
